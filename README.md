@@ -1,1 +1,0 @@
-# Sugarcane-Leaf-Disease-Detection-
